@@ -1,0 +1,170 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "mssql.connections": [
+        {
+            "server": "{{put-server-name-here}}",
+            "database": "{{put-database-name-here}}",
+            "user": "{{put-username-here}}",
+            "password": "",
+            "id": "5006C065-0660-4DC8-8A1A-7CB7DD4E17AD",
+            "groupId": "85E19EEC-9F22-411B-95AA-FE6D26EE6B4F"
+        }
+    ],
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "vscode_custom_css.imports": [
+        "file:///Users/lucaberhard/Library/Application Support/Code/User/custom-theme.js",
+        "file:///Users/lucaberhard/Library/Application Support/Code/User/custom-theme.css",
+    ],
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "explorer.confirmDelete": false,
+    "tabnine.experimentalAutoImports": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "hero-heroku.apiKey": "183dad1c-79e2-4fc9-9540-acddcfaeead7",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.colorTheme": "Lunar-dark-theme",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.inlineSuggest.enabled": true,
+    "css.lint.unknownAtRules": "ignore",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "npm.keybindingsChangedWarningShown": true,
+    "files.maxMemoryForLargeFilesMB": 12096,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "terminal.integrated.env.osx": {},
+    "terminal.integrated.env.windows": {},
+    "console-ninja.featureSet": "Pro",
+    "window.zoomLevel": 1,
+    "extensions.ignoreRecommendations": true,
+    "svelte.enable-ts-plugin": true,
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "git.autofetch": true,
+    /** ------------ Workbench Settings ------------ **/
+  "workbench.colorCustomizations": {
+    "inlineparameters.annotationBackground": "#282A3600",
+    "inlineparameters.annotationForeground": "#7b82af",
+    "scrollbar.shadow": "#24292e00"
+  },
+  "workbench.editorLargeFileConfirmation": 10024,
+  "workbench.layoutControl.enabled": false,
+  "workbench.tree.indent": 16,
+  "workbench.startupEditor": "none",
+  "workbench.editor.empty.hint": "hidden",
+
+  /** ------------ Breadcrumbs Configurations ------------ **/
+  "breadcrumbs.enabled": false,
+  "breadcrumbs.symbolPath": "off",
+  "breadcrumbs.filePath": "on",
+
+  /** ------------ Editor Settings ------------ **/
+  "editor.fontFamily": "'Fira Code Retina', 'Hack Nerd Font', Monospace",
+  "editor.fontSize": 14,
+  "editor.fontWeight": 400,
+  "editor.lineHeight": 22,
+  "editor.lineNumbers": "on",
+  "editor.folding": true,
+  "editor.glyphMargin": true,
+  "editor.guides.indentation": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.cursorStyle": "underline",
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": true,
+
+  /** ------------ Terminal Configurations ------------ **/
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.fontFamily": "'MesloLGS NF', 'Hack Nerd Font', Monospace",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "terminal.integrated.cursorStyle": "underline",
+"terminal.integrated.cursorBlinking": true,
+"mssql.connectionGroups": [
+    {
+        "name": "ROOT",
+        "id": "85E19EEC-9F22-411B-95AA-FE6D26EE6B4F"
+    }
+],
+"explorer.confirmPasteNative": false,
+"docker.extension.dockerEngineAvailabilityPrompt": false,
+"[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+},
+"files.trimTrailingWhitespace": true,
+"terminal.integrated.scrollback": 10000,
+"diffEditor.ignoreTrimWhitespace": false,
+"kilo-code.allowedCommands": [
+    "npm test",
+    "npm install",
+    "tsc",
+    "git log",
+    "git diff",
+    "git show"
+],
+"chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "/var/folders/2j/dr8b9yw11150hv3_vhzztmnw0000gn/T/postman-collections-post-response.instructions.md": true,
+    "/var/folders/2j/dr8b9yw11150hv3_vhzztmnw0000gn/T/postman-collections-pre-request.instructions.md": true,
+    "/var/folders/2j/dr8b9yw11150hv3_vhzztmnw0000gn/T/postman-folder-post-response.instructions.md": true,
+    "/var/folders/2j/dr8b9yw11150hv3_vhzztmnw0000gn/T/postman-folder-pre-request.instructions.md": true,
+    "/var/folders/2j/dr8b9yw11150hv3_vhzztmnw0000gn/T/postman-http-request-post-response.instructions.md": true,
+    "/var/folders/2j/dr8b9yw11150hv3_vhzztmnw0000gn/T/postman-http-request-pre-request.instructions.md": true
+},
+"github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+},
+"workbench.productIconTheme": "fluent-icons",
+"workbench.iconTheme": "material-icon-theme",
+"i18n-ally.displayLanguage": "de-DE",
+"svelte.ask-to-enable-ts-plugin": false,
+"sherlock.userId": "4d9ec129-0446-4beb-b8d2-adc46685ee88",
+}
