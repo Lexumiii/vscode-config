@@ -1,0 +1,2 @@
+# Install all extensions from your exported list
+cat ~/vscode-extensions.txt | xargs -L 1 code --install-extension
